@@ -1,0 +1,16 @@
+h2 {
+    background-color: bisque;
+    border-bottom: thin solid black;
+}
+
+.resume {
+    border: 2px solid grey;
+}
+
+.personalInfo {
+    background: yellow;
+}
+
+p {
+    background-color: lightseagreen;
+}
