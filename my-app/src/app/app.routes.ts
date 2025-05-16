@@ -6,6 +6,7 @@ import { ServicesHomeComponent } from './services-home/services-home.component';
 
 
 export const routes: Routes = [
+    {path: '', component: ContactHomeComponent},
     {path: 'home', component: HomeHomeComponent},
     {path: 'contact', component: ContactHomeComponent},
     {path: 'projects', component: ProjectsHomeComponent},
